@@ -1,0 +1,21 @@
+,movie_title,rating,vote,oscars,vote_adjusted_rating,oscar_adjusted_rating
+0,The Shawshank Redemption,9.23,2573229,0,9.23,9.23
+1,The Godfather,9.16,1771940,3,8.35,9.66
+2,The Dark Knight,8.98,2539863,2,8.95,9.28
+3,The Godfather Part II,8.98,1225326,6,7.64,9.98
+4,12 Angry Men,8.95,760006,0,7.13,8.95
+5,Schindler's List,8.93,1310769,7,7.67,9.93
+6,The Lord of the Rings: The Return of the King,8.92,1769931,11,8.12,10.42
+7,Pulp Fiction,8.85,1975054,1,8.25,9.15
+8,The Lord of the Rings: The Fellowship of the Ring,8.8,1791516,4,8.02,9.3
+9,"The Good, the Bad and the Ugly",8.79,739715,0,6.96,8.79
+10,Forrest Gump,8.77,1984958,6,8.18,9.77
+11,Fight Club,8.75,2025085,0,8.2,8.75
+12,Inception,8.73,2258436,4,8.42,9.23
+13,The Lord of the Rings: The Two Towers,8.73,1598918,2,7.75,9.03
+14,Star Wars: Episode V - The Empire Strikes Back,8.7,1244815,0,7.37,8.7
+15,The Matrix,8.67,1851478,4,7.95,9.17
+16,Goodfellas,8.65,1110342,1,7.19,8.95
+17,One Flew over the Cuckoo's Nest,8.64,979739,5,7.05,9.14
+18,Seven,8.6,1578267,0,7.61,8.6
+19,Seven Samurai,8.6,337851,0,6.36,8.6
